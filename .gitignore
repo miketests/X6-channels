@@ -3,6 +3,8 @@
 .AppleDouble
 .LSOverride
 
+*.zip
+
 # Logs
 logs
 *.log
